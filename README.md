@@ -41,10 +41,7 @@
 
 ## 📌 Featured Projects
 
-* AI-powered Learning Platform
-* Full-stack Task Management System
-* Backend API with Authentication & Authorization
-
+* ([AI-powered Personalized Learning Platform]([https://www.linkedin.com/in/adithya-rusith/](https://github.com/adith23/Study-Space-AI-Powered-Personalized-Tutor)))
 ---
 
 ## 📈 GitHub Stats
@@ -63,8 +60,8 @@
 
 ## 📫 Contact Me
 
-* LinkedIn: ([add your link](https://www.linkedin.com/in/adithya-rusith/))
-* Email: (adithyaramanayake20@gmail.com)
+* LinkedIn: ([LinkedIn](https://www.linkedin.com/in/adithya-rusith/))
+* Email: adithyaramanayake20@gmail.com
 
 ---
 
