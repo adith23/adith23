@@ -41,7 +41,7 @@
 
 ## 📌 Featured Projects
 
-* ([AI-powered Personalized Learning Platform]([https://www.linkedin.com/in/adithya-rusith/](https://github.com/adith23/Study-Space-AI-Powered-Personalized-Tutor)))
+* [AI-powered Personalized Learning Platform]([https://www.linkedin.com/in/adithya-rusith/](https://github.com/adith23/Study-Space-AI-Powered-Personalized-Tutor))
 ---
 
 ## 📈 GitHub Stats
