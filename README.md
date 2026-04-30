@@ -46,8 +46,6 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adith23\&show_icons=true\&theme=tokyonight)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adith23\&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adith23\&layout=compact\&theme=tokyonight)
@@ -60,7 +58,7 @@
 
 ## 📫 Contact Me
 
-* LinkedIn: ([LinkedIn](https://www.linkedin.com/in/adithya-rusith/))
+* LinkedIn: [LinkedIn](https://www.linkedin.com/in/adithya-rusith/)
 * Email: adithyaramanayake20@gmail.com
 
 ---
