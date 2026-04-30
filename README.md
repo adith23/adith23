@@ -1,7 +1,7 @@
-# Hi, I'm Shan Rusith 👋
+# Hi, I'm Adithya Rusith 👋
 
 🎓 Software Engineering Student
-💡 Aspiring **AI/ML Engineer** | Full-Stack Developer
+💡 Aspiring **AI/ML Engineer**
 
 ---
 
@@ -9,7 +9,7 @@
 
 * I build **end-to-end applications** combining backend systems, frontend UI, and AI
 * Strong focus on **AI-powered systems, scalable backend design, and real-world problem solving**
-* Currently exploring **LLMs, RAG systems, and cloud-based architectures**
+* Currently exploring **LLMs, RAG systems, and AI Agent applications**
 
 ---
 
@@ -39,18 +39,7 @@
 
 ---
 
-## 🤖 AI / ML Focus
-
-* Large Language Models (LLMs)
-* Retrieval-Augmented Generation (RAG)
-* AI-powered learning systems
-* Context-aware tutoring systems
-
----
-
 ## 📌 Featured Projects
-
-🚧 (Add your best projects here)
 
 * AI-powered Learning Platform
 * Full-stack Task Management System
@@ -72,28 +61,10 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adith23\&theme=tokyo-night)
 
----
-
-## 📚 Currently Learning
-
-* Advanced Backend Architecture (FastAPI, Microservices)
-* AI System Design & Agentic Workflows
-* Cloud & Scalable Deployments
-
----
-
-## 🎯 Goals
-
-* Become an **AI/ML Engineer**
-* Build production-level AI systems
-* Contribute to impactful open-source projects
-
----
-
 ## 📫 Contact Me
 
-* LinkedIn: (add your link)
-* Email: (add your email)
+* LinkedIn: ([add your link](https://www.linkedin.com/in/adithya-rusith/))
+* Email: (adithyaramanayake20@gmail.com)
 
 ---
 
