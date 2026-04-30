@@ -1,4 +1,4 @@
-# Hi, I'm Adithya Rusith 👋
+# Hey, I'm Adithya Rusith 👋
 
 🎓 Software Engineering Student
 💡 Aspiring **AI/ML Engineer**
